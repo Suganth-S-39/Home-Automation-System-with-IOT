@@ -1,3 +1,4 @@
+---
 set ns [new Simulator]
 
 $ns color 1 Blue
@@ -81,6 +82,7 @@ $ns at 7.5 "$cbr stop"
 $ns at 8.0 "finish"
 
 $ns run
+---
 # Home-Automation-System-wit-IOT
 
 # AIM: 
